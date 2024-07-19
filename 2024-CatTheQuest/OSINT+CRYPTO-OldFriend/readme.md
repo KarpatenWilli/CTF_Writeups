@@ -10,3 +10,5 @@ You find this strange code and need do decrypt it
 This part took to long for me but after many tries i found out it should mean
 
 ```My @ is the key to decrypt```
+
+Decrypt the Emojis on [URL]https://txtmoji.com/[/URL]
