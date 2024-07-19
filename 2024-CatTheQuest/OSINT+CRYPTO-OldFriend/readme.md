@@ -1,5 +1,8 @@
 This challenge was really fun, I would say I enjoyed this challenge most this year.
 
+We are given this information
+```Our dear H4z4rd is back, do you remember him? He remembers you. He has used the same communication place as last time for your next mission. Complete it.```
+
 You need to take a look on his social media profile an there are new posts
 [[image]]
 
