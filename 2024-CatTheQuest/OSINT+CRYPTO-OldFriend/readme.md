@@ -26,6 +26,7 @@ This part took too long for me, but after many tries, I found out what it should
 Now you have to find a tool to decrypt these emojis. After some googling, I came across the following page: https://txtmoji.com/Decrypt the Emojis with his X-Username to get the key.
 
 Key: ```https://riddle.catthequest.com/```
+
 ![](https://github.com/KarpatenWilli/CTF_Writeups/blob/d8285402e8624184ee07b176103a2d4ad89f2290/2024-CatTheQuest/OSINT%2BCRYPTO-OldFriend/images/Riddle.png)
 
 Now you take a deeper look in the source code and found this text file https://cdn.cattheflag.org/riddle.txt
