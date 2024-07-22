@@ -38,4 +38,6 @@ There you get these long B64 code that you have to decode several times
 
 Enter the "answer" on https://riddle.catthequest.com/ to get the flag.
 
+## Flag
+
 ```CAT{77ce9338-MjAyNC0wNy0xOSAxNDo0MjoxOA--82da432fa256993bc1ba619856dfc3bf71ef56f64d9e8e28745986e37314edf5}```
