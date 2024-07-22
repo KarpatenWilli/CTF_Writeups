@@ -2,3 +2,9 @@
 CTF_Writeups
 
 ## https://github.com/KarpatenWilli/CTF_Writeups/tree/CTF_Writeups/CatTheQuest/
+
+
+| Challenge Name  | Category | Write Up
+| ------------- | ------------- | -------------
+| Old Friend  | OSINT + Stego  | ![](https://github.com/KarpatenWilli/CTF_Writeups/tree/CTF_Writeups/CatTheQuest/)
+| Content Cell  | Content Cell  |
