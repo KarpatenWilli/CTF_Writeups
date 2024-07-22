@@ -11,8 +11,7 @@ We are given this information
 ## Solution
 
 You need to take a look on his social media profile an there are new posts
-![X-Profile](https://github.com/KarpatenWilli/CTF_Writeups/blob/eb5d8dcf5a984f0aa353b5759927293f66f43e8e/2024-CatTheQuest/OSINT%2BCRYPTO-OldFriend/images/X1.png)
-
+![X-Profile](https://github.com/KarpatenWilli/CTF_Writeups/blob/796c3ab973f399101dc4189ab3d113bebfe1d582/CatTheQuest/Old%20Friend/Images/X1.png)
 
 First of all you find a this strange code and need do decrypt it
 
