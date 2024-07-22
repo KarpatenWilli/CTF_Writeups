@@ -6,5 +6,5 @@ CTF_Writeups
 
 | Challenge Name  | Category | Write Up
 | ------------- | ------------- | -------------
-| Old Friend  | OSINT + Stego  | ![WriteUp](https://github.com/KarpatenWilli/CTF_Writeups/tree/CTF_Writeups/CatTheQuest/) |
+| Old Friend  | OSINT + Stego  | [WriteUp](https://github.com/KarpatenWilli/CTF_Writeups/tree/CTF_Writeups/CatTheQuest/) |
 | Content Cell  | Content Cell  |
