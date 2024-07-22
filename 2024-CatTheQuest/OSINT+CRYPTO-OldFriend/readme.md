@@ -13,7 +13,7 @@ First of all you find a this strange code and need do decrypt it
 
 ```_y @ i_ _he __y _o __c_y_t```
 
-This part took to long for me but after many tries i found out it should mean
+This part took too long for me, but after many tries, I found out what it should mean.
 
 ```My @ is the key to decrypt```
 
