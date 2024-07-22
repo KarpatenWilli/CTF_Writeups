@@ -1,4 +1,4 @@
-# CTF_Writeups
+# CTF Writeups
 ## CatTheQuest
 
 | Challenge Name  | Category | Write Up
