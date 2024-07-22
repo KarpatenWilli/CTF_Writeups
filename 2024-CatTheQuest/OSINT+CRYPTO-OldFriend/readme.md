@@ -25,6 +25,8 @@ This part took too long for me, but after many tries, I found out what it should
 
 Now you have to find a tool to decrypt these emojis. After some googling, I came across the following page: https://txtmoji.com/Decrypt the Emojis with his X-Username to get the key.
 
+![](https://github.com/KarpatenWilli/CTF_Writeups/blob/462925fadae4dbe2de7ce6e533fa834907336411/2024-CatTheQuest/OSINT%2BCRYPTO-OldFriend/images/txtmoji.png)
+
 Key: ```https://riddle.catthequest.com/```
 
 ![](https://github.com/KarpatenWilli/CTF_Writeups/blob/d8285402e8624184ee07b176103a2d4ad89f2290/2024-CatTheQuest/OSINT%2BCRYPTO-OldFriend/images/Riddle.png)
