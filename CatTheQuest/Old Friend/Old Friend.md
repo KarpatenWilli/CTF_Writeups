@@ -28,7 +28,7 @@ Now you have to find a tool to decrypt these emojis. After some googling, I came
 
 Key: ```https://riddle.catthequest.com/```
 
-![](https://github.com/KarpatenWilli/CTF_Writeups/blob/d8285402e8624184ee07b176103a2d4ad89f2290/2024-CatTheQuest/OSINT%2BCRYPTO-OldFriend/images/Riddle.png)
+![](https://github.com/KarpatenWilli/CTF_Writeups/blob/9513d8fd3fe2a66a4c9dab5a30fcdcf086c9ad59/CatTheQuest/Old%20Friend/Images/Riddle.png)
 
 Now you take a deeper look in the source code and found this text file https://cdn.cattheflag.org/riddle.txt
 
