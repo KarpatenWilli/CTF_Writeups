@@ -5,8 +5,7 @@ We are given this information
 ```Our dear H4z4rd is back, do you remember him? He remembers you. He has used the same communication place as last time for your next mission. Complete it.```
 
 You need to take a look on his social media profile an there are new posts
-https://github.com/KarpatenWilli/CTF_Writeups/blob/eb5d8dcf5a984f0aa353b5759927293f66f43e8e/2024-CatTheQuest/OSINT%2BCRYPTO-OldFriend/images/X1.png
-
+![X-Profile](https://github.com/KarpatenWilli/CTF_Writeups/blob/eb5d8dcf5a984f0aa353b5759927293f66f43e8e/2024-CatTheQuest/OSINT%2BCRYPTO-OldFriend/images/X1.png)
 
 
 First of all you find a this strange code and need do decrypt it
